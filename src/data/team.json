@@ -1,0 +1,50 @@
+[
+  {
+    "image": "images/team/astronaut.svg",
+    "job": "CEO",
+    "name": "Gilad Libergall",
+    "profile": [
+      {
+        "social": "facebook",
+        "url": "https://www.facebook.com/gilad.libergall"
+      },
+      {
+        "social": "linkedin",
+        "url": "https://www.linkedin.com/in/gilliber/"
+      }
+    ],
+    "summary": "Israeli bar association member since 2017. Entrepreneur in body, mind and soul"
+  },
+  {
+    "image": "images/team/bohemian.svg",
+    "job": "Data Leader",
+    "name": "Shai Shilo",
+    "profile": [
+      {
+        "social": "facebook",
+        "url": "https://www.facebook.com/shai.shilo"
+      },
+      {
+        "social": "linkedin",
+        "url": "https://www.linkedin.com/in/shai-shilo/"
+      }
+    ],
+    "summary": "Serverd for 5 years as a team leader in a top intelligence unit at IDF. Executed complex data intelligence projects"
+  },
+  {
+    "image": "images/team/astronaut.svg",
+    "job": "App Developer",
+    "name": "Michael Glushakov",
+    "profile": [
+      {
+        "social": "facebook",
+        "url": "https://www.facebook.com/michael.glushakov"
+      },
+      {
+        "social": "linkedin",
+        "url": "https://www.linkedin.com/in/michaelglushakov/"
+      }
+    ],
+    "summary": "Full stack developer and Technology enthusiast. Planned and developed applications for multiple clients "
+  }
+]

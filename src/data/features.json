@@ -1,0 +1,30 @@
+[
+  {
+    "image": "images/features/components.png",
+    "title": "New way to play",
+    "subtitle": "If you wanna play just play",
+    "summary": "Our revolutionary game and statistics analysis will give you new input and data on your favorite celebrities ",
+    "link": "2"
+  },
+  {
+    "image": "images/features/rocket.png",
+    "title": "Game",
+    "subtitle": "The game is based on a concept derived from fantasy gaming called “H2H” (head to head). ",
+    "summary": "The game begins with the “Selections” process (similar to the draft process in fantasy sports games), in which a player invites a friend to participate in a short game during which both comprise a “team” (or “clique”, as referred to in the game) of celebrities for a two week duration. During the two week tournament, each player is permitted to “trade” a celebrity who is in their current clique with another celebrity that had not been initially selected, once a day, in order to increase their chance of winning. The players contend for points in 3 different achievement-based categories – points reflecting a given celebrities success rate in their main industry. and points reflecting their Instagram following. The winner is the player with the most points in at least two out of the three categories. At the end of each tournament, the players amass in-game currency.",
+    "link": "1"
+  },
+  {
+    "image": "images/features/themes.png",
+    "title": "Company",
+    "subtitle": "Clout Clash (a game by Vineeland LTD) is an interactive data and gaming company. ",
+    "summary": "The Company creates online gaming platforms similar to fantasy sports but with a unique twist – the games are based on data which measures individual celebrities’ success rates in their industry as opposed to measuring athletes’ performance rates in a given sports league.",
+    "link": "3"
+  },
+  {
+    "image": "images/features/testing.png",
+    "title": "Sources",
+    "subtitle": "Where do we get our data from?",
+    "summary": "the music industry – Israel: Galatz ranking; U.S: billboard chart ranking, points reflecting their amount of traffic on PR websites (e.g. Israel: Walla, Pnai Plus; U.S: TMZ), Instagram, Facebook, Google and more!",
+    "link": "4"
+  }
+]
